@@ -1,0 +1,37 @@
+/* ---  COLORS ---- */
+$color-black: #1e1e1e;
+$color-grey: "";
+$color-light-grey: rgb(58, 57, 57);
+$color-white: rgb(223, 221, 221);
+$color-default-text: "";
+$color-default-bg: "";
+$border: 0.5px solid $color-white;
+/* --- LAYOUT --- */
+$site-max-width: 1700px;
+$vertical-rhythm-base: calc(
+$baseline * 1.4 * 1rem
+); /* 1.4 is the base font size in rem */
+$document-margin: 2rem;
+$document-margin-small: 3rem;
+$site-header-height: 10vw;
+
+$padding-xs: 4px;
+$padding-s: 8px;
+$padding-m: 16px;
+$padding-l: 20px;
+$padding-xl: 40px;
+
+/* ---  TYPOGRAPHY / FONT-STYLES  --- */
+$font-primary: gopher, sans-serif;
+$font-secondary: "";
+$line-height: " ";
+$letter-spacing: "";
+$baseline: "";
+
+$copy-xxl: 11.089rem;
+$copy-xl: 6.854rem;
+$copy-l: 4.236rem;
+$copy-m: 2.618rem;
+$copy-s: 1.618rem;
+$copy-xs: 1rem;
+$copy-xxs: 0.9rem;
