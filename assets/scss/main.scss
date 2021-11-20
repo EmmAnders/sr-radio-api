@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+body {
+  @include body;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: $color-white;
+}
+
+.row {
+  @include row;
+}
+
+.column {
+  @include column;
+}
+
+.double-column {
+  @include column;
+}
+
+@include medium {
+  .column {
+    flex: 1;
+  }
+
+  .double-column {
+    flex: 2;
+  }
+}
