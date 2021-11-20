@@ -1,0 +1,58 @@
+[
+  {
+    "name": "categories",
+    "path": "/categories",
+    "component": "/Users/emma/Documents/sr-radio-api/pages/categories/index.vue",
+    "chunkName": "pages/categories/index",
+    "_name": "_0fce3126"
+  },
+  {
+    "name": "channels",
+    "path": "/channels",
+    "component": "/Users/emma/Documents/sr-radio-api/pages/channels/index.vue",
+    "chunkName": "pages/channels/index",
+    "_name": "_00e909a1"
+  },
+  {
+    "name": "programs",
+    "path": "/programs",
+    "component": "/Users/emma/Documents/sr-radio-api/pages/programs/index.vue",
+    "chunkName": "pages/programs/index",
+    "_name": "_4de9c500"
+  },
+  {
+    "name": "categories-slug",
+    "path": "/categories/:slug",
+    "component": "/Users/emma/Documents/sr-radio-api/pages/categories/_slug.vue",
+    "chunkName": "pages/categories/_slug",
+    "_name": "_133b73b6"
+  },
+  {
+    "name": "channels-slug",
+    "path": "/channels/:slug",
+    "component": "/Users/emma/Documents/sr-radio-api/pages/channels/_slug.vue",
+    "chunkName": "pages/channels/_slug",
+    "_name": "_019b2f4e"
+  },
+  {
+    "name": "episode-slug",
+    "path": "/episode/:slug?",
+    "component": "/Users/emma/Documents/sr-radio-api/pages/episode/_slug.vue",
+    "chunkName": "pages/episode/_slug",
+    "_name": "_13665498"
+  },
+  {
+    "name": "programs-slug",
+    "path": "/programs/:slug",
+    "component": "/Users/emma/Documents/sr-radio-api/pages/programs/_slug.vue",
+    "chunkName": "pages/programs/_slug",
+    "_name": "_51570790"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/emma/Documents/sr-radio-api/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_225eca18"
+  }
+]

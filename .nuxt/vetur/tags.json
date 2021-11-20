@@ -1,0 +1,35 @@
+{
+  "Player": {
+    "description": "Auto imported from components/fragments/Player.vue"
+  },
+  "Tabs": {
+    "description": "Auto imported from components/fragments/Tabs.vue"
+  },
+  "SiteFooter": {
+    "description": "Auto imported from components/layout/SiteFooter.vue"
+  },
+  "SiteHeader": {
+    "description": "Auto imported from components/layout/SiteHeader.vue"
+  },
+  "SiteLogo": {
+    "description": "Auto imported from components/layout/SiteLogo.vue"
+  },
+  "SiteSidebar": {
+    "description": "Auto imported from components/layout/SiteSidebar.vue"
+  },
+  "ChannelScheduleList": {
+    "description": "Auto imported from components/lists/ChannelScheduleList.vue"
+  },
+  "ChannelTeaserList": {
+    "description": "Auto imported from components/lists/ChannelTeaserList.vue"
+  },
+  "ProgramTeaserList": {
+    "description": "Auto imported from components/lists/ProgramTeaserList.vue"
+  },
+  "ChannelTeaser": {
+    "description": "Auto imported from components/teasers/ChannelTeaser.vue"
+  },
+  "ProgramTeaser": {
+    "description": "Auto imported from components/teasers/ProgramTeaser.vue"
+  }
+}
